@@ -3,5 +3,4 @@ public class Class3 {
 
     //smth
 
-    //qwcwcfwefwef
 }
